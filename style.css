@@ -16,7 +16,7 @@
   height: 60px;
   border-radius: 50%;
   border-top-color: #1ecd97;
-  border-left-color: #1ecd97
+  border-left-color: #1ecd97;
   animation: spin 1s infinite ease-in-out;
 }
 
